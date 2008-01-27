@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2008-01-27 18:40+0100\n"
+"PO-Revision-Date: 2008-01-27 18:40+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
+msgid "6p - Hall of Lame"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:6
+msgid ""
+"Crazy map where the terrain mutates and where you can pick a lot of powerups."
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:21
+msgid "teamname^North"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:30
+msgid "teamname^Southeast"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:39
+msgid "teamname^Southwest"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:48
+msgid "teamname^Northeast"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:57
+msgid "teamname^Northwest"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:66
+msgid "teamname^South"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:85
+msgid "Eradicate all ennemy units"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:89
+msgid "Lose all our units"
+msgstr ""
+
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:97
+msgid ""
+"When a leader dies, a new leader will rise from his remaining units\n"
+"Magical disorder expected in a few turn.\n"
+"- Blue Orbs will upgrade melee\n"
+"- Green Orbs will upgrade ranged\n"
+"- Red potions will upgrade hp\n"
+"- Blue potions will upgrade speed"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:121
+msgid "Orb of Strength"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:121
+msgid " melee damages"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:131
+msgid "+1 melee strike"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:131
+msgid "Orb of Mightness"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:141
+msgid "Orb of Dexterity"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:141
+msgid " ranged damages"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:151
+msgid "Orb of Marksmanship"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:151
+msgid "+1 ranged strike"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:161
+msgid " HP"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:161
+msgid "Elixir of Toughness"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:170
+msgid " Move"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:170
+msgid "Elixir of Speed"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:175
+msgid " gold"
+msgstr ""
+
+#: Hall_of_Lame/utils/powerups.cfg:175
+msgid "Treasure chest"
+msgstr ""
