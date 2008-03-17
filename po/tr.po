@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-13 20:47+0100\n"
+"POT-Creation-Date: 2008-03-17 14:10+0100\n"
 "PO-Revision-Date: 2008-01-27 18:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,61 +12,61 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #. multiplayer
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
 msgstr ""
 
 #. multiplayer
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:6
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:21
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:30
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:39
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:48
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:57
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
 msgstr ""
 
 #. side
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:66
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
 msgstr ""
 
 #. objective: condition=win
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:85
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
 msgstr ""
 
 #. objective: condition=lose
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:89
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
 msgstr ""
 
 #. objectives
-#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:97
+#: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"
-"Magical disorder expected in a few turn.\n"
+"Some magical disorder will alter the terrain.\n"
 "- Blue Orbs will upgrade melee\n"
 "- Green Orbs will upgrade ranged\n"
 "- Red potions will upgrade hp\n"
