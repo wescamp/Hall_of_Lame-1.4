@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-03-17 14:10+0100\n"
-"PO-Revision-Date: 2008-03-15 18:40+0100\n"
-"Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
+"PO-Revision-Date: 2008-04-14 17:16+0100\n"
+"Last-Translator: Damien J <guydelatourATgloireetpouvoirPTcom>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -14,15 +14,15 @@ msgstr ""
 #. multiplayer
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr "6j - Hall à la noix"
+msgstr "6j - La Salle d'armes"
 
 #. multiplayer
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
-"Une carte folle où le terrain se transforme et où vous pouvez collecter des "
-"tas de bonus."
+"Une carte folle où le terrain se transforme et où vous pouvez collecter "
+"quantité de bonus."
 
 #. side
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
@@ -57,16 +57,15 @@ msgstr "Sud"
 #. objective: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
-msgstr "Eradication totale de l'ennemi"
+msgstr "Éradiquer totalement l'ennemi"
 
 #. objective: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
-msgstr "Perte de toute vos unités"
+msgstr "Perte de toutes vos unités"
 
 #. objectives
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
-#, fuzzy
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"
 "Some magical disorder will alter the terrain.\n"
@@ -75,12 +74,12 @@ msgid ""
 "- Red potions will upgrade hp\n"
 "- Blue potions will upgrade speed"
 msgstr ""
-"Lorsque votre chef est tué, un autre est choisi parmis vos unités restantes\n"
-"Des perturbations magiques sont prévues d'ici quelques tours.\n"
-"- Les orbes bleues améliorent le combat au corps-à-corps\n"
-"- Les orbes vertes améliorent le combat à distance\n"
-"- Les orbes bleues améliorent les points de vie\n"
-"- Les orbes bleues améliorent la vitesse"
+"Lorsque votre chef est tué, un autre est choisi parmi vos unités restantes\n"
+"Des perturbations magiques modifieront le terrain.\n"
+"- Les orbes bleus améliorent le combat au corps à corps\n"
+"- Les orbes verts améliorent le tir à distance\n"
+"- Les potions rouges améliorent les points de vie\n"
+"- Les potions bleues améliorent la vitesse."
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid "Orb of Strength"
@@ -88,11 +87,11 @@ msgstr "Orbe de Force"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr " dégats au corps-à-corps"
+msgstr " dégâts au corps à corps"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr "+1 frappe au corps-à-corps"
+msgstr "+1 frappe au corps à corps"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
@@ -104,11 +103,11 @@ msgstr "Orbe de Dextérité"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr " dégats à distance"
+msgstr " dégâts à distance"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
-msgstr "Orbe du Tireur d'Elite"
+msgstr "Orbe du Tireur d'Élite"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
@@ -124,7 +123,7 @@ msgstr "Élixir d'Endurance"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid " Move"
-msgstr " mouvement"
+msgstr " Mouvement"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid "Elixir of Speed"
