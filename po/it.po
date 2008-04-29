@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:29+0200\n"
-"PO-Revision-Date: 2008-04-18 20:26+0100\n"
+"PO-Revision-Date: 2008-04-29 09:08+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -14,13 +14,15 @@ msgstr ""
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr ""
+msgstr "6p - Sala dello storpio"
 
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
+"Mappa pazza dove il terreno cambia e dove puoi raccolgiere un mucchio di "
+"oggetti magici."
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
@@ -55,12 +57,12 @@ msgstr "Sud"
 #. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
-msgstr ""
+msgstr "Elimina tutte le unità nemiche"
 
 #. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
-msgstr ""
+msgstr "Perdi tutte le tue unità"
 
 #. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
@@ -72,38 +74,45 @@ msgid ""
 "- Red potions will upgrade hp\n"
 "- Blue potions will upgrade speed"
 msgstr ""
+"Quando un comandante viene eliminato, dalle sue unità rimaste verrà fuori un "
+"nuovo capo\n"
+"Alcuni disturbi magici modificheranno il terreno:\n"
+"- le sfere blu incrementano gli attacchi ravvicinati;\n"
+"- le sfere verdi aumentano gli attacchi a distanza;\n"
+"- le pozioni rosse aumentano i PF;\n"
+"- le pozioni blu aumentano la velocità."
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid "Orb of Strength"
-msgstr ""
+msgstr "Globo della forza"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr ""
+msgstr " danni ravvicinati"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr ""
+msgstr "+1 attacco ravvicinato"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
-msgstr ""
+msgstr "Globo del potere"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid "Orb of Dexterity"
-msgstr ""
+msgstr "Globo della destrezza"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr ""
+msgstr " danni a distanza"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
-msgstr ""
+msgstr "Globo della precisione"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
-msgstr ""
+msgstr "+1 attacco a distanza"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid " HP"
@@ -111,7 +120,7 @@ msgstr "PF"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid "Elixir of Toughness"
-msgstr ""
+msgstr "Elisir della resistenza"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid " Move"
@@ -119,7 +128,7 @@ msgstr "Muovi"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid "Elixir of Speed"
-msgstr ""
+msgstr "Elisir della velocità"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid " gold"
