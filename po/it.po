@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:29+0200\n"
-"PO-Revision-Date: 2008-04-29 09:08+0100\n"
+"PO-Revision-Date: 2008-05-05 10:24+0100\n"
 "Last-Translator: Brivido <brivido(at)gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +14,7 @@ msgstr ""
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr "6p - Sala dello storpio"
+msgstr "6p - Sala della pazzia"
 
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
