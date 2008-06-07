@@ -2,67 +2,67 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:10+0100\n"
-"PO-Revision-Date: 2008-01-27 18:40+0100\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2008-04-25 21:29+0200\n"
+"PO-Revision-Date: 2008-06-07 23:56+0100\n"
+"Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr ""
+msgstr "6p - Hall of Lame"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
-msgstr ""
+msgstr "Bláznivá mapa, kde terén mutuje a ked môžte zobrať veľa predmetov."
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
-msgstr ""
+msgstr "Sever"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
-msgstr ""
+msgstr "Juhovýchod"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
-msgstr ""
+msgstr "Juhozápad"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
-msgstr ""
+msgstr "Severovýchod"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
-msgstr ""
+msgstr "Severozápad"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
-msgstr ""
+msgstr "Juh"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
-msgstr ""
+msgstr "Sú zničené všetky súperove jednotky"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
-msgstr ""
+msgstr "Prišiel si o všetky jednotky"
 
-#. objectives
+#. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"
@@ -72,59 +72,66 @@ msgid ""
 "- Red potions will upgrade hp\n"
 "- Blue potions will upgrade speed"
 msgstr ""
+"Keď veitelia zomrú, nový velitelia budú môcť povstať z ich zvyšných "
+"jednotiek\n"
+"Niake magické veci budú môcť zmeniť terén.\n"
+"- Modré kruhy  vylepšia boj na blízko\n"
+"Zelené kruhy vylepšia útok na dialku\n"
+"Červené kruhy vylepšia život\n"
+"Modré kruhy vylepšia rýchlosť"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid "Orb of Strength"
-msgstr ""
+msgstr "Kruh síly"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr ""
+msgstr " zranenie nablízko"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr ""
+msgstr "+1 úder na blízko"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
-msgstr ""
+msgstr "Kruh Moci"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid "Orb of Dexterity"
-msgstr ""
+msgstr "Kruh obratnosti"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr ""
+msgstr " zranenie na diaľku"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
-msgstr ""
+msgstr "Kruh strelectva"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
-msgstr ""
+msgstr "+1úder na dialku"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid " HP"
-msgstr ""
+msgstr " životy"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid "Elixir of Toughness"
-msgstr ""
+msgstr "Elexír odolnosti"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid " Move"
-msgstr ""
+msgstr " Pohyb"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid "Elixir of Speed"
-msgstr ""
+msgstr "Elixír rýchlosti"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid " gold"
-msgstr ""
+msgstr " zlato"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid "Treasure chest"
-msgstr ""
+msgstr "Truhla s pokladom"
