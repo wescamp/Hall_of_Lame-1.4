@@ -1,68 +1,74 @@
+# translation of hu-hol.po to Hungarian
+# Pintér Csaba <piere-d-siorac@freemail.hu>, 2008.
+# Kádár-Németh Krisztián <krisztian.kad@gmail.com>, 2008.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: hu-hol\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:10+0100\n"
-"PO-Revision-Date: 2008-01-27 18:40+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"POT-Creation-Date: 2008-04-25 21:29+0200\n"
+"PO-Revision-Date: 2008-06-17 09:08+0200\n"
+"Last-Translator: Kádár-Németh Krisztián <krisztian.kad@gmail.com>\n"
+"Language-Team: Hungarian\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.11.4\n"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr ""
+msgstr "6j - Gyámoltalanok csarnoka"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
+"Őrült pálya, ahol a terep változik, és ahol számos extra tárgyat lehet "
+"fölvenni."
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
-msgstr ""
+msgstr "Észak"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
-msgstr ""
+msgstr "Délkelet"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
-msgstr ""
+msgstr "Délnyugat"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
-msgstr ""
+msgstr "Északkelet"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
-msgstr ""
+msgstr "Északnyugat"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
-msgstr ""
+msgstr "Dél"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
-msgstr ""
+msgstr "Megsemmisíted az összes ellenséges egységet"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
-msgstr ""
+msgstr "Elveszted az összes egységedet"
 
-#. objectives
+#. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"
@@ -72,59 +78,65 @@ msgid ""
 "- Red potions will upgrade hp\n"
 "- Blue potions will upgrade speed"
 msgstr ""
+"Amikor a vezér elesik, új vezér lép elő a megmaradó egységei közül\n"
+"Néhány mágikus zavar átalakítja a terepet.\n"
+"- A Kék Gömbök továbbfejlesztik a közelharc képességet\n"
+"- A Zöld Gömbök továbbfejlesztik a távolsági harc képességet\n"
+"- A Piros Italok növelik az életerőpontokat\n"
+"- A Kék Italok növelik a gyorsaságot"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid "Orb of Strength"
-msgstr ""
+msgstr "Erő Gömbje"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr ""
+msgstr " közelharc sebzés"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr ""
+msgstr "+1 közelharc támadás"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
-msgstr ""
+msgstr "Hatalmasság Gömbje"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid "Orb of Dexterity"
-msgstr ""
+msgstr "Ügyesség Gömbje"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr ""
+msgstr " távolsági sebzés"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
-msgstr ""
+msgstr "Mesterlövészet Gömbje"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
-msgstr ""
+msgstr "+1 távolsági támadás"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid " HP"
-msgstr ""
+msgstr " ÉP"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid "Elixir of Toughness"
-msgstr ""
+msgstr "Ellenállóság Elixírje"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid " Move"
-msgstr ""
+msgstr " Mozgás"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid "Elixir of Speed"
-msgstr ""
+msgstr "Sebesség Elixírje"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid " gold"
-msgstr ""
+msgstr " arany"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid "Treasure chest"
-msgstr ""
+msgstr "Kincsesláda"
