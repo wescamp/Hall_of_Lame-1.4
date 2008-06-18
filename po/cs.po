@@ -1,9 +1,15 @@
+# translation of wesnoth-Hall_of_Lame.pot to Czech
+# Czech translations for Battle for Wesnoth UMC package.
+# Český překlad rozšíření hry Battle for Wesnoth (Bitva o Wesnoth).
+#
+# Petr Šlejhar (Septim) <septim@nospam.centrum.cz>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-04-25 21:29+0200\n"
-"PO-Revision-Date: 2008-06-05 22:46+0100\n"
+"PO-Revision-Date: 2008-06-17 21:19+0100\n"
 "Last-Translator: Septim <septim@centrum.cz>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -14,7 +20,7 @@ msgstr ""
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr "6p - Síň mrzačení"
+msgstr "6p - Mrzká síň"
 
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
@@ -74,9 +80,9 @@ msgid ""
 msgstr ""
 "Pokud vůdce zemře, stane se vůdcem některá zbývající jednotka.\n"
 "Magická entropie pozměňuje terén.\n"
-"- Modré koule zvyšují útok na blízko\n"
-"- Zelené koule zvyšují útok na dálku\n"
-"- Červené lektvary zvyšují HP\n"
+"- Modré koule zlepšují útok na blízko\n"
+"- Zelené koule zlepšují útok na dálku\n"
+"- Červené lektvary zvyšují HP a léčí\n"
 "- Modré lektvary zvyšují rychlost"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
@@ -85,11 +91,11 @@ msgstr "Koule síly"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr " poškození útokem zblízka"
+msgstr " k poškození útokem zblízka"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr "+1 k útoku zblízka"
+msgstr "další útok zblízka"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
@@ -101,7 +107,7 @@ msgstr "Koule obratnosti"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr " poškození útokem na dálku"
+msgstr " k poškození útokem na dálku"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
@@ -109,7 +115,7 @@ msgstr "Koule dobré mušky"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
-msgstr "+1 k útoku na dálku"
+msgstr "další útok na dálku"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid " HP"
