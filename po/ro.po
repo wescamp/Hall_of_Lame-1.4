@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:10+0100\n"
+"POT-Creation-Date: 2008-04-25 21:29+0200\n"
 "PO-Revision-Date: 2008-01-27 18:40+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -12,58 +12,58 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
 msgstr ""
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
 msgstr ""
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
 msgstr ""
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
 msgstr ""
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
 msgstr ""
 
-#. objectives
+#. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"

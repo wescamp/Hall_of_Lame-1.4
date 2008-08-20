@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-03-17 14:10+0100\n"
+"POT-Creation-Date: 2008-04-25 21:29+0200\n"
 "PO-Revision-Date: 2008-04-21 21:42+0200\n"
 "Last-Translator: Benoît Timbert <benoit.timbert@free.fr>\n"
 "Language-Team: Équipe de traduction française <wesnoth@ml.free.fr>\n"
@@ -11,12 +11,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
 msgstr "6j - La salle de la démence"
 
-#. multiplayer
+#. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
@@ -24,47 +24,47 @@ msgstr ""
 "Une carte folle où le terrain se transforme et où vous pouvez collecter "
 "quantité de bonus."
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
 msgstr "Nord"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
 msgstr "Sud-Est"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
 msgstr "Sud-Ouest"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
 msgstr "Nord-Est"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
 msgstr "Nord-Ouest"
 
-#. side
+#. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
 msgstr "Sud"
 
-#. objective: condition=win
+#. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
 msgid "Eradicate all ennemy units"
 msgstr "Éradiquer totalement l'ennemi"
 
-#. objective: condition=lose
+#. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
 msgstr "Perte de toutes vos unités"
 
-#. objectives
+#. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
 msgid ""
 "When a leader dies, a new leader will rise from his remaining units\n"
