@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2008-04-25 21:29+0200\n"
+"POT-Creation-Date: 2008-11-18 22:22+0100\n"
 "PO-Revision-Date: 2008-06-07 23:56+0100\n"
 "Last-Translator: Viliam Búr <viliam@bur.sk>\n"
 "Language-Team: none\n"
@@ -54,7 +54,8 @@ msgstr "Juh"
 
 #. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
-msgid "Eradicate all ennemy units"
+#, fuzzy
+msgid "Eradicate all enemy units"
 msgstr "Sú zničené všetky súperove jednotky"
 
 #. [objective]: condition=lose
