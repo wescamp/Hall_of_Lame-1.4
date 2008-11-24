@@ -1,66 +1,89 @@
+# Danish translation of Hall of Lame.
+# Copyright (C) 2008 Wesnoth Development Team and Joe Hansen.
+# This file is distributed under the same license as the Battle for Wesnoth package.
+# Joe Hansen <joedalton2@yahoo.dk>, 2008.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2008-11-18 22:22+0100\n"
-"PO-Revision-Date: 2008-01-27 18:40+0100\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2008-11-17 18:40+0100\n"
+"Last-Translator: Joe Hansen <dansk@dansk-gruppen.dk>\n"
+"Language-Team: Danish <dansk@dansk-gruppen.dk>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+# NB, hvilken mening indgår lame med her
+# halt; haltende
+# tynd; ussel
+# blive halt
+# bølge; sø
+# blad (på kniv)
+# liste (træliste)
+# Well, I suppose it's a joke with hall of fame. The basic meaning of
+# lame is "crippled", I think.
+# I'm not sure either how to translate it.
+# "Hall of fame" is used for the high score table...
+# "Hall of lame" could be used for the worst scores. But here it looks
+# like it's some kind of scenario.
+#
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:4
 msgid "6p - Hall of Lame"
-msgstr ""
+msgstr "6p - De haltendes hal"
 
 #. [multiplayer]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:5
 msgid ""
 "Crazy map where the terrain mutates and where you can pick a lot of powerups."
 msgstr ""
+"Skørt kort hvor terrænet ændrer sig, og hvor du kan samle en masse "
+"trylledrikke op."
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:20
 msgid "teamname^North"
-msgstr ""
+msgstr "Nord"
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:29
 msgid "teamname^Southeast"
-msgstr ""
+msgstr "Sydøst"
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:38
 msgid "teamname^Southwest"
-msgstr ""
+msgstr "Sydvest"
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:47
 msgid "teamname^Northeast"
-msgstr ""
+msgstr "Nordøst"
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:56
 msgid "teamname^Northwest"
-msgstr ""
+msgstr "Nordvest"
 
 #. [side]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:65
 msgid "teamname^South"
-msgstr ""
+msgstr "Syd"
 
+# engelsk fejl her
 #. [objective]: condition=win
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:84
+#, fuzzy
 msgid "Eradicate all enemy units"
-msgstr ""
+msgstr "Udryd alle fjendtlige enheder"
 
 #. [objective]: condition=lose
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:88
 msgid "Lose all our units"
-msgstr ""
+msgstr "Tab af alle vores enheder"
 
 #. [objectives]
 #: Hall_of_Lame/scenarios/6p_Hall_of_Lame.cfg:96
@@ -72,59 +95,65 @@ msgid ""
 "- Red potions will upgrade hp\n"
 "- Blue potions will upgrade speed"
 msgstr ""
+"Når en leder dør, vil en ny leder rejse sig fra de tilbageværende enheder\n"
+"Magisk uorden vil ændre terrænet.\n"
+"- Blå sfærer vil opgradere nærkamp\n"
+"- Grønne sfærer vil opgradere afstandsvåben\n"
+"- Røde sfærer vil opgradere liv\n"
+"- Blå sfærer vil opgradere hastighed"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid "Orb of Strength"
-msgstr ""
+msgstr "Styrkesfære"
 
 #: Hall_of_Lame/utils/powerups.cfg:121
 msgid " melee damages"
-msgstr ""
+msgstr " nærkampskader"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "+1 melee strike"
-msgstr ""
+msgstr "+1 nærkampangreb"
 
 #: Hall_of_Lame/utils/powerups.cfg:131
 msgid "Orb of Mightness"
-msgstr ""
+msgstr "Storhedssfære"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid "Orb of Dexterity"
-msgstr ""
+msgstr "Udholdenhedssfære"
 
 #: Hall_of_Lame/utils/powerups.cfg:141
 msgid " ranged damages"
-msgstr ""
+msgstr " afstandsskader"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "Orb of Marksmanship"
-msgstr ""
+msgstr "Duelighedssfære"
 
 #: Hall_of_Lame/utils/powerups.cfg:151
 msgid "+1 ranged strike"
-msgstr ""
+msgstr "+1 afstandsvåben"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid " HP"
-msgstr ""
+msgstr " Liv"
 
 #: Hall_of_Lame/utils/powerups.cfg:161
 msgid "Elixir of Toughness"
-msgstr ""
+msgstr "Sejhedseliksir"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid " Move"
-msgstr ""
+msgstr " Flyt"
 
 #: Hall_of_Lame/utils/powerups.cfg:170
 msgid "Elixir of Speed"
-msgstr ""
+msgstr "Hastighedseliksir"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid " gold"
-msgstr ""
+msgstr " guld"
 
 #: Hall_of_Lame/utils/powerups.cfg:175
 msgid "Treasure chest"
-msgstr ""
+msgstr "Skatkammer"
